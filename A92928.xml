@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A serious advice to all the honest Presbyterians within the City of London. Wherein many reasons are laid down, wherefore they ought not to labour the disarming of those new listed souldiers, under the command of Major Gen. Skippon.</title>
+         </titleStmt>
+         <extent>Approx. 22KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92928</idno><idno type="EEBO-CITATION">99864497</idno>
+  <idno type="VID">162061</idno>
+  <idno type="EEBO-PROQUEST">2240902296</idno>
+  
+            <idno type="STC">Wing S2602</idno>
+            <idno type="STC">Thomason E456_33</idno>
+            <idno type="STC">ESTC R205053</idno>
+            <idno type="PROQUEST">99864497</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99864497e"/>
+            <note>(EEBO-TCP ; phase 2, no. A92928)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 162061)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 72:E456[33])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A serious advice to all the honest Presbyterians within the City of London. Wherein many reasons are laid down, wherefore they ought not to labour the disarming of those new listed souldiers, under the command of Major Gen. Skippon.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeer 1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "Aug: 4th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term type="geographic_name">London (England) --  History --  17th century --  Early works to 1800.</term>
+               <term type="geographic_name">Presbyterians --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:162061:1"/>
+            <p>A Serious Advice To all the Honest PRESBYTERIANS within the City of LONDON.</p>
+            <p>WHEREIN Many Reasons are laid down, where<g ref="char:EOLhyphen"/>fore they ought not to labour the disarming of those new Listed souldiers, under the Com<g ref="char:EOLhyphen"/>mand of Major Gen. <hi>SKIPPON.</hi>
+            </p>
+            <p>Printed in the yeer 1648.</p>
+         </div>
+         <div type="poem">
+            <pb facs="tcp:162061:2"/>
+            <head>An Admonition.</head>
+            <lg>
+               <l>
+                  <hi>IF friends begin to jar,</hi>
+               </l>
+               <l>
+                  <hi>Contend, and disagree,</hi>
+               </l>
+               <l>
+                  <hi>Beware they do not War,</hi>
+               </l>
+               <l>
+                  <hi>To please their Enemie.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>If a Contentious bone</hi>
+               </l>
+               <l>
+                  <hi>Betwixt you once be cast,</hi>
+               </l>
+               <l>
+                  <hi>Beware you let it alone,</hi>
+               </l>
+               <l>
+                  <hi>You'l hurt your teeth at last.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Let not the glozing words</hi>
+               </l>
+               <l>
+                  <hi>Of Cavaliers us fill</hi>
+               </l>
+               <l>
+                  <hi>With rage, to draw our swords,</hi>
+               </l>
+               <l>
+                  <hi>Our Brethrens blood to spill.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>If we begin to fight,</hi>
+               </l>
+               <l>
+                  <hi>And one another quell:</hi>
+               </l>
+               <l>
+                  <hi>After that day, the night</hi>
+               </l>
+               <l>
+                  <hi>Tolls a</hi> Scicilian <hi>bell.</hi>
+               </l>
+            </lg>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:162061:2"/>
+            <p>
+               <seg rend="decorInit">H</seg>Ow fearfull am I, lest the Cavaliers jugling pre<g ref="char:EOLhyphen"/>tences, glozing words, and smoothed foreheads, should cause you to work your own downfall; God himself best knowes, and my own soul and conscience beareth me witnesse. The care of the health, wealth, and prosperity both of you and yours, as I hope this ensuing Treatise will de<g ref="char:EOLhyphen"/>monstrate in what a large dimension it extendeth it self, so it will perswade you favourably to accept of it, and Candidly to interpret it, as proceeding from an affection, zealous in the promoting and advancing of what may augment your felicities. I should not wish my self any longer to breathe vital air, or tread upon this earth, then it might go well both with you and yours. I call God to witnesse, my own life shall never be esteemed dearer to me then yours, being willing to poure out my dearest blood, so it might be advantagious to you, in obtaining a much longed for, and expected prosperity. If herein I shall write amisse, as supposing your affections other<g ref="char:EOLhyphen"/>wayes bent then indeed they be, I shall humbly crave pardon of you, which I hope will not be denied, considering pure love, and a heart ever devoted to your service, have extorted these ensuing conside<g ref="char:EOLhyphen"/>rations from me. I suppose your Major Gen. was chosen by your consents and approbations, a man as valiant as faithfull, religiously stout, &amp; stoutly religous, one, whom formerly you have embraced, and honoured, who hath gallantly behaved himself in all under<g ref="char:EOLhyphen"/>takings for the welfare of this Kingdom; concerning whom, I can<g ref="char:EOLhyphen"/>not but wonder, how you should foster any suspitious jealousies, or any waies imagin what machinations may be conceived in his brest, tending to the least harm of any the <hi>Presbyterian</hi> Party. I am sure any such over suspitious thoughts will easily be vanquished by these ensuing Considerations,</p>
+            <p n="1">1. The Major Generall cannot attempt any thing prejudician to your safetie, seeing he wholly laboureth the relief and supply of those who are your only friends, who represse the fury and Scarlet indignation of your Adversaries, I mean the Lord Gen. and his Ar<g ref="char:EOLhyphen"/>my, whose constant care, and vigilancie for your safety, deserveth more at your hands, then a poor connivencie at the private sup<g ref="char:EOLhyphen"/>plies sent, and the secret levies made by Major Gen. <hi>Skippon.</hi>
+            </p>
+            <p n="2">
+               <pb n="2" facs="tcp:162061:3"/>2. He hath Authority from the Parliament, and Countenance too, who, in all probability, know the utmost of his intentions to be bounded with plain honesty, ot<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>erwise they would not so stoutly support him▪ and maintain him in his present undertakings; partly because they know you to be their friends, and therefore would not suffer any of their Ministers to damnifie those, who for the defence of Religion and Liberty, are associated with you, are their fellows, and companions in Arms, for the support of this common quarrell. Partly, because if they had such a resolution to endanger your lives and livelihoods, yet for the present, it is improbable they would attempt any thing against you, by whose protection they sit quiet at Westminster from the tumultuous Commotions of the Cavaliers. Again, should the Parlia. of <hi>England</hi> intend any notorious harm, or injury to be acted against you now, the meanest Politician would easily deride their inconsiderate rashnesse, who having such a strong enemie in the field, would even then assault their friends, when the only wisdom were to gain and encrease their friends. An injury which would rellish equally with you, and all the <hi>Presbyterian</hi> Party now in Arms for them throughout the Kingdom of <hi>England.</hi>
+            </p>
+            <p n="3">3. There cannot be any danger from the Parliament, because there sitting so great a Party of the <hi>Presbyterians</hi> in the house, all would be revealed, if any thing were contrived to your dammage: which, how foolish a thing were it for the <hi>Independents</hi> (if dishone<g ref="char:EOLhyphen"/>sty transported them so far,) as to begin a fruitlesse Plot, without any hope of obtaining a happy conclusion?</p>
+            <p n="4">4. There cannot be any danger from the Army: first, Having their hands full of action, both South and North, the Lord Gen. stoutly handled at <hi>Colchester,</hi> the <hi>Scottish</hi> invasion constraining the Lie. Gen. to hasten a relief to his friends, and opposition to his enemies. And suppose they had occasion at the present to injure you, (I mean the <hi>Presbyterian</hi> Party) either it must be for an old discourtesie offered, or a new one incurred; not the first, for then, why did they not a<g ref="char:EOLhyphen"/>venge themselves upon you in nine moneths space, when their Arm was not shortened, nor their Power abridged? If for the second, how can this be? seeing you have not acted any thing for the pre<g ref="char:EOLhyphen"/>sent, whereat they may be offended. If they intend to extort mo<g ref="char:EOLhyphen"/>ney, why not long before, when they had much power, more oppor<g ref="char:EOLhyphen"/>tunitie, and were the most pressed with necessities? Partly, because souldiers lying idle in their quarters, are more prone to mutinies
+<pb n="3" facs="tcp:162061:3"/> for want of their pay. Partly for want of money to discharge the supernumeraries: whereas if they be in Action: Free-quarter, and some small Contributions of money from adjacent Counties▪ together with what plunder the enemy pleaseth to bestow upon them, doth for the present abundantly content them.</p>
+            <p n="5">5. The Armies Chieftains well know, that without the <hi>Presbyterian</hi> Party, they cannot sustain the brunt and fury of the <hi>Scottish</hi> and <hi>English</hi> Cavaliers; now if they should deal rigorously with you, would not this alien, and disoblige all the <hi>Presbyterian</hi> party, who have so unanimously resolved in the Northern parts, to give a check to the proceedings of the false lying Covenanters?</p>
+            <p n="6">6. That any part of the Army▪ or the whole, should, according to the false in<g ref="char:EOLhyphen"/>formations, march towards <hi>London,</hi> wanteth sence and reason to make it credible to judicious mens understandings: for how can it be supposed, that the Army forsaking their old and Armed Adversaries, will come to <hi>London</hi> to create a new Enemy? For although they intend an injury against you, yet they would for the present smother it, and conceal such a wrathfull and malicious project, untill op<g ref="char:EOLhyphen"/>portunity of putting it in execution were conveniently offered.</p>
+            <p>
+               <hi>However, freely to declare my opinion concerning this businesse, it may be strongly suspected, the Army having received such notable affronts from the Cavaliers here in</hi> London, <hi>their Ammunition tumbled down</hi> Walbrook, <hi>their Carriages from</hi> Windsor <hi>forced to go wide from the City, fearing to be overturned by them in the streets: as also knowing so many thousands of men listed by them, furnish<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d with all accommodations out of their purses, who sustained the Armies brunt at</hi> Maidstone, <hi>and</hi> Colchester, <hi>besides many gone to</hi> Pontefract, 800 <hi>with</hi> Buckingham, <hi>are resolved to force the Cavaliers be<g ref="char:EOLhyphen"/>nevolence to be equal<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y extended towards them, which they perceiving, labour to work fears and jealousies in you, as though the blow were intended for your heads. And there<g ref="char:EOLhyphen"/>fore hope to engage you in the same quarrell, in the suppressing of these new levies raised by your Major G<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rall, which if you d<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, you shall know with what wisdom, if these subsequent Consid<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rations be well pondered by you.</hi>
+            </p>
+            <p n="1">1. If you will suppresse them, it must be either by your selves alone, or by the Cavaliers alone, or by both joyntly; if by your selves, take heed of a <hi>Machiavil<g ref="char:EOLhyphen"/>lian</hi> snare, for if you destroy part of your friends, will not the Cavaliers rise a<g ref="char:EOLhyphen"/>against you? It is an old Trick, to procure two parties to fight, the one to quell the other, and a third Party to ruin the Conquerours: If you joyn with the Cava<g ref="char:EOLhyphen"/>liers, the same misery oppresseth you. If the Cavaliers be sole Actors, you but Spectators, you shall close up the Tragedie▪ finish your began dissensions with a lamentable <hi>Catastrophe</hi> to you and your posterities: <hi>Simeon</hi> marched out of <hi>Jerusa<g ref="char:EOLhyphen"/>lem</hi> to destroy the <hi>Scythopolitans,</hi> to whom many thousands of Iews were neighbors and fellow Citizens, these inconsiderately joyn with the <hi>Scythopolitans</hi> against their own Countrey men, whom they inhumanely destroy and consume, almost to the last man, howbeit, when they had holpen strangers, they found a strangers reward; for the <hi>Scythopolitans</hi> put man, woman, and childe to the sword, and plundered their houses, seized upon their possessions, fearing lest hereafter they might revolt, and joyn with their mo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tal enemie I will not make any application, only this I say, Remember the miserable Jews of <hi>Scythopolis.</hi>
+            </p>
+            <p n="2">2. Suppose the <hi>Independ<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nts,</hi> which is improbable, had a designe violently <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o oppresse you, either in estates or liberties, whether were it better to fall into the hands of your old, yet discontented friends, or into the hands of your old, and yet enraged Adversaries?</p>
+            <p n="3">
+               <pb n="4" facs="tcp:162061:4"/>3. By this action of suppressing the Major General and his forces, you will in c<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rre the hatred of both parties; of the Parliament, for this present wrong; of th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Cavaliers, for all by-past injuries.</p>
+            <p n="4">4. You will be Traitors, whosoever be Conquerors; if the Parliament, be<g ref="char:EOLhyphen"/>cause you disobeyed their Ordinances and Injunctions; if the KING, because ye so strongly opposed him, and aided the Parliament in these civill Combustions.</p>
+            <p n="5">5. If you commit this Trespasse, you must be sure to know of ability in your selves, and aid and assistance from other friends abroad to withstand the force of both parties; unlesse you hope to ingratiate your selves with his Majestie by the betraying of the Parliament, but know this, <hi>Love the Treason, and hate the Traytor,</hi> is a <hi>Spanish</hi> Rule; and I think King <hi>Charles</hi> was once a Courtier in that countrey where this Rule is embraced for a sound Catholike Principle. As for the Cava<g ref="char:EOLhyphen"/>liers Intercession, it will prove a Diabolicall Accusation, whose stomacks and ap<g ref="char:EOLhyphen"/>pe<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ites must needs be glutted with your blood, and estates, whose only desire is, to overturn, overturn, overturn, both you and your Posterities.</p>
+            <p n="6">6. Whether or no by this Action, it prove successefull, you do not overthrow and destroy the Parliament, and so draw down ruin upon your heads, conjoyned with perpetuall infamie; for you cannot disarm these already Listed forces, with<g ref="char:EOLhyphen"/>out the <hi>Posse Civitatis,</hi> which must be a number of Cavaliers, who having effected this work, will second it by cutting the Parliaments throats: And then
+<q>Quo res summa Loco Cives quam prendimus arcem?</q> The Cavaliers would quickly be so numerous, that they would wrest your swords out of your hands, and pierce your bodies with your own Rapiers; they will quickly seize all the Arms and Ammunition▪ distribute them amongst their com<g ref="char:EOLhyphen"/>panions, and so by degrees, ingrosse the whole power of the City into their hands.</p>
+            <p n="7">7. If this be committed by you▪ a double danger will be incurred. First, A diffused grudge throughout the whole Kingdom betwixt the <hi>Presbyterians</hi> and <hi>In<g ref="char:EOLhyphen"/>d<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>pendents,</hi> who will begin to stand in fear and doubt one of another, never either to love or trust one another, it may be in the conclusion sheath their swords in one anothers bowels. Secondly, It is to be feared, the <hi>Independent</hi> party, seeing them<g ref="char:EOLhyphen"/>selves overi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> mastered by your contrivances, and unwilling to sustain the heat of the day, when you pay them such wages at night, will procure liberty of consci<g ref="char:EOLhyphen"/>ence, and their pay from his Majesty, and leave you to his mercy.</p>
+            <p n="8">8. Whether or no an utter ruin of the City be not subsequent to your under<g ref="char:EOLhyphen"/>takings, if they get the upper hand, no hope of mercy from the <hi>Ind<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>pendents;</hi> if you prevail, no hope of mercy from the Cavaliers: So that whethersoever obtaineth the Superiority, <hi>quacun{que} via data,</hi> you are sure of a Butchering.</p>
+            <p n="9">9. Whether will not the Army, seeing themselves so strangely affronted, return from <hi>Coventry</hi> and <hi>Colchester,</hi> to be avenged on <hi>London?</hi> where, what danger you may run into by the sword, fire, and plundering, I leave it to your consideration.</p>
+            <p n="10">10. If the Army should violently come to <hi>London,</hi> what hope to oppose them? Would you Confront them in the field? How hard a matte<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to effect, Summer last will sufficiently instruct you: Will you contain your selves within the City walls? You must leave the Suburbs to the mercy of wild-fire balls, and your selves ru<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ne the hazard of the great Morterpieces.</p>
+            <p n="11">11. Whether or no this be not a policy of the Cavaliers, to labour the suppres<g ref="char:EOLhyphen"/>sing of the Major Generall, so that no reliefe or supplyes, may be sent to the Ar<g ref="char:EOLhyphen"/>my
+<pb n="5" facs="tcp:162061:4"/> now beleaguering <hi>Colchester,</hi> and they themselves will smoothly laugh you to scorne, having trimly perswaded, to expell your Major Generall, who was a friend to your friends, an enemy to your enemies.</p>
+            <p n="12">12. Suppose you should suppresse these Levies by the Parliaments Authority, yet how would this secure you from their revenge, whom all the world would know, to be forced to this consent by your threats and menaces? And Compulsary meanes used▪ against Kings, great States, and the chiefe Magistrates in a Common<g ref="char:EOLhyphen"/>wealth, ever proved fatall and disastrous to the users thereof, whose grants and yeeldings in such cases, having been extorted from them upon necessity, and unvoluntarily, they themselves have with much regret and rage of spirit revolved, vowing suddaine revenge to the authors, and broachers of such indignities, and a making of them examplary to future posterities. And the Chieftains of the Army, (though for the present being imployed in more necessary af<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aires they cannot attend upon such occasions) yet if Victorious, will scarcely prove your good Lords and Masters, when they ride in triumphant Chariots through the streets of <hi>London.</hi>
+            </p>
+            <p n="13">13. If any of the <hi>Presbyterian</hi> party have suffered indignities from the Army, Parliament, or both, yet I cannot foresee with what Policy they can joyne against the Parliament, especially if they consider what mischiefes and miseries they have brought upon the Cavaliers, &amp; how deeply they have incensed his Majestie; some of them have expugned the garrisons belonging to the King, routed his armies, ta<g ref="char:EOLhyphen"/>ken and slaine his souldiers, defended strong holds (to their eternall honour) against all his armed force and power; now that the King will forget all these offences, and receive them into grace and favour, because they have advanced to their utmost a Personall Treaty; These reasons will nullify such groundlesse hopes, and empty expectations.</p>
+            <p n="1">1. Every Prince, either obtaining a new principality, or recovering an old one, out of which he was formerly ejected, will labour to rid away the chiefe op<g ref="char:EOLhyphen"/>posers in the first, and the grand instruments in the second, knowing full well, that unlesse he dispatch these, (though all the holds be in his power) yet his per<g ref="char:EOLhyphen"/>son can never be secure from Clandestine Conspiracics. As also, being willing to settle the Crowne fast upon the heads, not only of themselves, but of their succes<g ref="char:EOLhyphen"/>sours, they cannot be ignorant, but the blood of such men, whom they deeme their adversaries▪ will be the best morter, the most tenacious glue to fasten the Crowne upon their heads, and the heads of their posterities. Both the one and the other may be seen in the Actions of <hi>Agathocles</hi> the <hi>Scicilian</hi> Tyrant, and <hi>Christierne</hi> of <hi>D<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n<g ref="char:EOLhyphen"/>marke,</hi> in his <hi>Stockholme</hi> banquet bestowed upon the <hi>Swedish</hi> Nobility.</p>
+            <p n="2">2. Any matter of love and duty performed by a Subject, against whom the Prince is provoked, though it be for his Princes honour and saf<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ty, shall not be construed to proceed from an Affection full of Loyalty, but from an affection overtopped, and constrained by necessity, chiefly if by those who have formerly been his strong opposers, and at such a time when his party gr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>w strong, and powerfull, and able to withstand the adversary. Princes be thanklesse to those who break their heads, and then bestow plaisters; whom they deeme their enemies, they care not for their care and forwardnesse in promoting their Collapsed Regalities.</p>
+            <p n="3">3. Those Subiects who once have been the causers of their Princes downfall into
+<pb n="6" facs="tcp:162061:5"/> alow and abiect Condition, though afterwards they restore him, and honour him as their Soveraigne, yet he will not forget to revenge the injury, so he have offered a faire opportunity. And they which think the party grieved, remembereth not the injury received, seeme to have small experience of mens qualities and disposi<g ref="char:EOLhyphen"/>tions in these daies, wherein ordinarily men remember displeasures better then good turnes. <hi>Iohn Rata</hi> Earle of <hi>Casarta</hi> his dealing with <hi>Manfredi</hi> the <hi>Sicilian</hi> Prince, and <hi>Nicholas Campo-bachio</hi> his Treacherous carriage towards <hi>Charles</hi> the bold of <hi>Burgundie; L<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>vius Salinator</hi> his resolution for the injurious carriage of his Citizens, dalineate unto us wha<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> hea<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ts <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rinces and great men carry Locked up in the Chests of their bodies; Superiours alwaies scornfully, never thankfully remembring Courtesies received from their inferiours, by which they have ob<g ref="char:EOLhyphen"/>tained their lost power and authority. Much lesse a Prince from inferiours, whom he looketh upon as enemies, with whom, how in the conclusion he will deale Let the Actions of <hi>Henry</hi> the third of <hi>France</hi> declare, for I will supersede only with this. That <hi>Qui puta<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> magnorum virorum inv<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>teratis odiis novis beneficiis oblivi<g ref="char:EOLhyphen"/>onem induci posse is Vehementer fallitur.</hi>
+            </p>
+            <p>These reasons I hope may perswade you to avoid any such desperate under<g ref="char:EOLhyphen"/>taking, wherein, whether Victors, or vanquished, your misery in the conclusion will not be diminished. The Cavaliers are willing to make you their drudges, and pack-horses, their Asaphi, to blunt the swords of your friends, not of your Enemies, whom if you be resolved to countenance and support, you doe transport that old bloody Threatre out of holy <hi>Jerusalem,</hi> &amp; Place it in <hi>London</hi> streets; re-act that bloody Tragedy, wherein <hi>Sk<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ppon</hi> must seize the Tower, and personate <hi>Ieho<g ref="char:EOLhyphen"/>canan; Browne, Pauls,</hi> and act the part of <hi>Simeon;</hi> but some powerfull Cavalier keep his Corps <hi>du gard</hi> at <hi>Westminster,</hi> and personate <hi>Eleazar.</hi> Then may I say,</p>
+            <q>
+               <l>
+                  <hi>Venit summa dies &amp; ineluctabile Tempus</hi>
+               </l>
+               <l>
+                  <hi>Dardanis, fuimus Troes, fuit Ilium, &amp; ingens</hi>
+               </l>
+               <l>
+                  <hi>Gloria Teucrorum</hi>—</l>
+            </q>
+            <p>However, I hope wisdome will favourablie indite what you ought to engrave up<g ref="char:EOLhyphen"/>on the Tables of your heart, and will so direct you in things Concerning your felicity, as may rejoyce not only your own hearts, but the hearts of every one of your well wishers.</p>
+            <p>But know this for a Certaine; The Cavaliers only aymes and prayers (I meane Curses) are for the extirpation of you and yours; which you cannot better faci<g ref="char:EOLhyphen"/>litate, then by complying with them in any designe, tending to the subversion of the Lord Generall and his Army, by which action you endeavour the betray<g ref="char:EOLhyphen"/>ing of him, them, and all the godly party in <hi>England,</hi> into the Lion-like pawes of your unmercifull Enemies, and more then blood-sucking Murderers.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
